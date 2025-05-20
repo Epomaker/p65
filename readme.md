@@ -1,8 +1,6 @@
 # EPOMAKER P65
 
-A customizable 65key keyboard.
-
-![EPOMAKER  P65](https://raw.githubusercontent.com/Linyer-qwq/image/main/EPOMAKER  P65.jpg)
+A customizable 66-key keyboard.
 
 * Keyboard Maintainer: [Epomaker](https://github.com/Epomaker)
 * Hardware Supported: EPOMAKER  P65 PCB with es32fs026 microcontroller
